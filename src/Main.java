@@ -10,6 +10,7 @@ public class Main {
             System.out.println(calc(operation));
         } catch (Exception e) {
             System.out.print("throws Exception");
+            
         }
     }
 
